@@ -1,0 +1,9 @@
+node_modules/
+dist/
+
+# Analysis files (contain sensitive data)
+login/
+*.har
+LoginView-*.js
+login-*.js
+
